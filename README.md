@@ -1,2 +1,2 @@
 # Selector-de-cor
-Uma pequeno programa feito com HTML, CSS e JavaScript. Que muda a cor de fundo 
+Um pequeno programa feito com HTML, CSS e JavaScript. Que altera a cor de fundo de acordo com a cor selecionada pelo usuário.
